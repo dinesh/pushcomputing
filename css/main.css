@@ -40,7 +40,7 @@ body {
 .btn-yellow:focus {
   color: #fff;
   outline: 0;
-  background-color: #f6b036;
+  background-color: #f5a61e;
 }
 .banner {
   position: relative;
@@ -94,4 +94,82 @@ body {
   text-transform: uppercase;
   font-weight: 600;
   box-shadow: 0 2px 2px rgba(0,0,0,.3);
+}
+.banner-message .btn-hero {
+  width: 220px;
+}
+.signup-wraper {
+  position: relative;
+  padding: 60px 15px;
+  /*background-color: #31c685;*/
+  background-color: #f6f8f6;
+}
+.signup-email-wraper {
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+}
+.signup-email-wraper::after,
+.signup-email-wraper::before {
+  content: '';
+  display: table;
+}
+.signup-email-wraper::after {
+  clear: both;
+}
+.signup-email-field {
+  overflow: hidden;
+  padding-right: 15px;
+}
+.signup-email-field .form-control {
+  height: 44px;
+  line-height: 44px;
+  padding: 0 15px;
+  border-radius: 2px;
+}
+.signup-email-field .form-control:focus {
+  box-shadow: none;
+  border-color: #f1f1f1;
+}
+.signup-email-wraper .btn-email {
+  font-size: 16px;
+  font-weight: 600;
+  width: 150px;
+  padding: 10px 12px;
+  float: right;
+  border-radius: 2px;
+}
+.signup-wraper h2 {
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  color: #000;
+  margin-bottom: 20px;
+}
+.main-footer {
+  padding: 20px 0;
+}
+.footer-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+.footer-nav > li {
+  display: inline-block;
+}
+.footer-nav > li > a {
+  display: block;
+  padding: 8px;
+  color: #777;
+}
+.footer-nav > li > a:hover,
+.footer-nav > li > a:focus {
+  color: #f5a61e;
+}
+.copy-right {
+  color: #666;
+  margin-bottom: 0;
+  padding: 8px 0;
 }
