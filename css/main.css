@@ -45,7 +45,7 @@ body {
 .banner {
   position: relative;
   padding: 150px 0;
-  min-height: 90vh;
+  min-height: 100vh;
   background: #41295a; /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #41295a , #2F0743); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to left, #41295a , #2F0743); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -71,7 +71,6 @@ body {
   width: 100%;
   margin: 0 auto;
   text-align: center;
-  padding-top: 5%;
 }
 .banner-message h1 {
   color: #fff;
@@ -99,15 +98,15 @@ body {
   width: 220px;
 }
 .signup-wraper {
-  position: relative;
-  padding: 60px 15px;
-  /*background-color: #31c685;*/
-  background-color: #f6f8f6;
-}
-.signup-email-wraper {
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  right: 0;
   max-width: 600px;
   width: 100%;
   margin: 0 auto;
+  background-color: transparent;
+  z-index: 2;
 }
 .signup-email-wraper::after,
 .signup-email-wraper::before {
@@ -140,12 +139,9 @@ body {
   border-radius: 2px;
 }
 .signup-wraper h2 {
-  max-width: 600px;
-  width: 100%;
-  text-align: center;
-  margin: 0 auto;
-  color: #000;
-  margin-bottom: 20px;
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 15px;
 }
 .main-footer {
   padding: 20px 0;
