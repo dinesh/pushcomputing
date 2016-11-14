@@ -59,8 +59,8 @@ body {
   width: 100%;
   height: 100%;
   margin: 0 auto 0;
-  background: url('../images/hero.svg') no-repeat center center/68%;
-  opacity: 0.3;
+  background: url('../images/hero.png') no-repeat center center/80%;
+  opacity: 0.6;
 }
 .banner-message {
   position: relative;
@@ -74,12 +74,12 @@ body {
 }
 .banner-message h1 {
   color: #fff;
-  font-size: 60px;
+  font-size: 45px;
   font-family: 'Roboto Slab', serif;
   font-weight: 400;
 }
 .banner-message p {
-  font-size: 20px;
+  font-size: 18px;
   color: #fff;
   margin-bottom: 25px;
 }

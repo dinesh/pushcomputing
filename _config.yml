@@ -1,0 +1,11 @@
+# Site settings
+title: Pushcomputing
+email: dinesh@codecrux.com
+description: > # this means to ignore newlines until "baseurl:"
+  Pushcomputing is the easiest way to connect alerts/notifications from enterprise applications to your inbox, chat or slack.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://pushcomputing.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
