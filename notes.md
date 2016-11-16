@@ -48,3 +48,22 @@ Supported sources -
   Left side
 Supported channels - 
   Right side
+
+
+questions for kinshul
+---------------------
+How many businesses having 10k+ and 5k-10k users
+  - a year before
+  - 6 months before
+  - current
+contact for licensed reseller for Gsuite like (https://www.viwoinc.com/), Capgemini, https://www.bettercloud.com/, Okta
+
+The only industry segments where Google Apps has more share than Office 365 are in technology; media, Internet and software companies
+
+For larger companies, this goes beyond the familiarity of Outlook into advanced features. “You can integrate Skype into Outlook, you can integrate OneDrive for Business into Outlook. It becomes essentially like a command center, and there is nothing Google gives you that does that.”
+
+Office 365 provides a continuity with legacy solutions that makes it easier to keep everyone happy with the applications they've been using for many years, or perhaps decades, but it's also evolving. "Office 365 is based on Microsoft's legacy products and is becoming more 'cloud-enabled' and easy to manage," Burke says. 
+
+Integration to other systems should be heavily evaluated.  I have been evaluating many ECM / Imaging systems and most have integration into Microsoft Office/Outlook/SharePoint, but not with Google APPs/Gmail (one did say they were in a beta with Gmail, but without a client it was not robust at all).Look at all the systems that you use that integrate to email and choose accordingly.  We've used Novell GroupWise for years (not by choice), and that has been a limiting factor for many integration opportunities.
+
+https://www.novell.com/products/groupwise/features/
