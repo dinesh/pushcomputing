@@ -103,16 +103,16 @@ body {
   width: 220px;
 }
 .signup-wraper {
-  position: absolute;
-  bottom: 50px;
-  left: 0;
-  right: 0;
-  max-width: 600px;
   width: 100%;
-  margin: 0 auto;
-  background-color: transparent;
+  background-color: #41295a;
+  padding: 30px 40px 50px 40px;
   z-index: 2;
 }
+.signup-wraper .box {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 .signup-email-wraper::after,
 .signup-email-wraper::before {
   content: '';
@@ -209,14 +209,13 @@ body {
   font-size: 44px;
 }
 .divider {
-  max-width: 700px;
+  max-width: 600px;
   width: 100%;
   margin: 0 auto;
-  padding: 20px;
   border-bottom: 2px solid #e5e7e9
 }
 .how-it-works-wraper {
-  padding: 50px 0;
+  padding: 10px 0;
 }
 .step-item {
   padding-top: 40px;
