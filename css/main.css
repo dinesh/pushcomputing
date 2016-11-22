@@ -50,7 +50,7 @@ body {
 }
 .banner {
   position: relative;
-  padding: 100px 0;
+  padding: 80px 0;
   min-height: 100vh;
   background: #41295a; /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #41295a , #2F0743); /* Chrome 10-25, Safari 5.1-6 */
