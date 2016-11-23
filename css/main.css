@@ -88,6 +88,10 @@ body {
   color: #fff;
   margin-bottom: 25px;
 }
+.banner-message p.streamer {
+  margin-top: 45%;
+}
+
 .btn-hero {
   display: block;
   margin: 0 auto;
