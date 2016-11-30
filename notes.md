@@ -67,3 +67,12 @@ Office 365 provides a continuity with legacy solutions that makes it easier to k
 Integration to other systems should be heavily evaluated.  I have been evaluating many ECM / Imaging systems and most have integration into Microsoft Office/Outlook/SharePoint, but not with Google APPs/Gmail (one did say they were in a beta with Gmail, but without a client it was not robust at all).Look at all the systems that you use that integrate to email and choose accordingly.  We've used Novell GroupWise for years (not by choice), and that has been a limiting factor for many integration opportunities.
 
 https://www.novell.com/products/groupwise/features/
+
+
+Pushcomputing helps businesses to become more production and efficient by integrating popular enterprise apps with commonly used workplace channels like Gmail, Outlook, Slack, and Hipchat. It transforms workplace channel into an interactive command center to perform repetitive tasks saving your time. Employees don't have to hope several applications having old clunky interfaces just to get daily notifications and reports.
+
+
+
+
+
+
